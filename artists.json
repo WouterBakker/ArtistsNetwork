@@ -1,0 +1,3618 @@
+{
+  "nodes": [
+    {
+      "first": "26",
+      "second": "38",
+      "third": "6",
+      "name": "Mac DeMarco",
+      "group": 1
+    },
+    {
+      "first": "3",
+      "second": "85",
+      "third": "66",
+      "name": "Grizzly Bear",
+      "group": 1
+    },
+    {
+      "first": "34",
+      "second": "58",
+      "third": "4",
+      "name": "Boards of Canada",
+      "group": 1
+    },
+    {
+      "first": "37",
+      "second": "66",
+      "third": "18",
+      "name": "Beach House",
+      "group": 1
+    },
+    {
+      "first": "72",
+      "second": "25",
+      "third": "29",
+      "name": "Steely Dan",
+      "group": 1
+    },
+    {
+      "first": "53",
+      "second": "79",
+      "third": "78",
+      "name": "Bob James",
+      "group": 1
+    },
+    {
+      "first": "91",
+      "second": "3",
+      "third": "84",
+      "name": "Deerhunter",
+      "group": 1
+    },
+    {
+      "first": "91",
+      "second": "63",
+      "third": "85",
+      "name": "Yo La Tengo",
+      "group": 1
+    },
+    {
+      "first": "67",
+      "second": "None",
+      "third": "None",
+      "name": "Jeremy Soule",
+      "group": 1
+    },
+    {
+      "first": "14",
+      "second": "75",
+      "third": "18",
+      "name": "M83",
+      "group": 1
+    },
+    {
+      "first": "26",
+      "second": "59",
+      "third": "95",
+      "name": "Tame Impala",
+      "group": 1
+    },
+    {
+      "first": "83",
+      "second": "50",
+      "third": "25",
+      "name": "Radiohead",
+      "group": 1
+    },
+    {
+      "first": "72",
+      "second": "68",
+      "third": "25",
+      "name": "Electric Light Orchestra",
+      "group": 1
+    },
+    {
+      "first": "92",
+      "second": "85",
+      "third": "98",
+      "name": "Cass McCombs",
+      "group": 1
+    },
+    {
+      "first": "44",
+      "second": "33",
+      "third": "57",
+      "name": "Frank Ocean",
+      "group": 1
+    },
+    {
+      "first": "56",
+      "second": "37",
+      "third": "61",
+      "name": "Connan Mockasin",
+      "group": 1
+    },
+    {
+      "first": "34",
+      "second": "62",
+      "third": "37",
+      "name": "The Avalanches",
+      "group": 1
+    },
+    {
+      "first": "25",
+      "second": "28",
+      "third": "90",
+      "name": "Pink Floyd",
+      "group": 1
+    },
+    {
+      "first": "97",
+      "second": "34",
+      "third": "78",
+      "name": "Romare",
+      "group": 1
+    },
+    {
+      "first": "36",
+      "second": "97",
+      "third": "62",
+      "name": "Com Truise",
+      "group": 1
+    },
+    {
+      "first": "96",
+      "second": "10",
+      "third": "26",
+      "name": "Beach Fossils",
+      "group": 1
+    },
+    {
+      "first": "66",
+      "second": "37",
+      "third": "26",
+      "name": "Animal Collective",
+      "group": 1
+    },
+    {
+      "first": "95",
+      "second": "99",
+      "third": "84",
+      "name": "Mild High Club",
+      "group": 1
+    },
+    {
+      "first": "8",
+      "second": "55",
+      "third": "7",
+      "name": "Caribou",
+      "group": 1
+    },
+    {
+      "first": "63",
+      "second": "26",
+      "third": "99",
+      "name": "No Joy",
+      "group": 1
+    },
+    {
+      "first": "58",
+      "second": "69",
+      "third": "50",
+      "name": "Gorillaz",
+      "group": 1
+    },
+    {
+      "first": "40",
+      "second": "11",
+      "third": "58",
+      "name": "Four Tet",
+      "group": 1
+    },
+    {
+      "first": "23",
+      "second": "96",
+      "third": "60",
+      "name": "Blouse",
+      "group": 1
+    },
+    {
+      "first": "None",
+      "second": "None",
+      "third": "None",
+      "name": "Ian Taylor",
+      "group": 1
+    },
+    {
+      "first": "10",
+      "second": "23",
+      "third": "6",
+      "name": "Wild Nothing",
+      "group": 1
+    },
+    {
+      "first": "25",
+      "second": "90",
+      "third": "68",
+      "name": "The Beatles",
+      "group": 1
+    },
+    {
+      "first": "62",
+      "second": "33",
+      "third": "11",
+      "name": "Massive Attack",
+      "group": 1
+    },
+    {
+      "first": "25",
+      "second": "83",
+      "third": "28",
+      "name": "Roxy Music",
+      "group": 1
+    },
+    {
+      "first": "14",
+      "second": "18",
+      "third": "60",
+      "name": "Black Moth Super Rainbow",
+      "group": 1
+    },
+    {
+      "first": "40",
+      "second": "62",
+      "third": "58",
+      "name": "St. Germain",
+      "group": 1
+    },
+    {
+      "first": "96",
+      "second": "6",
+      "third": "23",
+      "name": "Seapony",
+      "group": 1
+    },
+    {
+      "first": "72",
+      "second": "68",
+      "third": "83",
+      "name": "David Bowie",
+      "group": 1
+    },
+    {
+      "first": "26",
+      "second": "65",
+      "third": "84",
+      "name": "Young Prisms",
+      "group": 1
+    },
+    {
+      "first": "12",
+      "second": "92",
+      "third": "51",
+      "name": "Nick Drake",
+      "group": 1
+    },
+    {
+      "first": "50",
+      "second": "60",
+      "third": "36",
+      "name": "Foals",
+      "group": 1
+    },
+    {
+      "first": "93",
+      "second": "51",
+      "third": "92",
+      "name": "The Strokes",
+      "group": 1
+    },
+    {
+      "first": "84",
+      "second": "75",
+      "third": "55",
+      "name": "Melody's Echo Chamber",
+      "group": 1
+    },
+    {
+      "first": "78",
+      "second": "40",
+      "third": "86",
+      "name": "Kraak & Smaak",
+      "group": 1
+    },
+    {
+      "first": "61",
+      "second": "59",
+      "third": "None",
+      "name": "LOVING",
+      "group": 1
+    },
+    {
+      "first": "21",
+      "second": "97",
+      "third": "None",
+      "name": "Jerry Paper",
+      "group": 1
+    },
+    {
+      "first": "None",
+      "second": "None",
+      "third": "None",
+      "name": "Joie De Vivre",
+      "group": 1
+    },
+    {
+      "first": "50",
+      "second": "69",
+      "third": "92",
+      "name": "Keane",
+      "group": 1
+    },
+    {
+      "first": "56",
+      "second": "23",
+      "third": "85",
+      "name": "Homeshake",
+      "group": 1
+    },
+    {
+      "first": "68",
+      "second": "54",
+      "third": "87",
+      "name": "The Doors",
+      "group": 1
+    },
+    {
+      "first": "33",
+      "second": "15",
+      "third": "36",
+      "name": "James Blake",
+      "group": 1
+    },
+    {
+      "first": "58",
+      "second": "24",
+      "third": "86",
+      "name": "Moby",
+      "group": 1
+    },
+    {
+      "first": "75",
+      "second": "63",
+      "third": "55",
+      "name": "Cocteau Twins",
+      "group": 1
+    },
+    {
+      "first": "78",
+      "second": "2",
+      "third": "None",
+      "name": "Jazzanova",
+      "group": 1
+    },
+    {
+      "first": "91",
+      "second": "66",
+      "third": "56",
+      "name": "Ariel Pink",
+      "group": 1
+    },
+    {
+      "first": "14",
+      "second": "55",
+      "third": "91",
+      "name": "Stereolab",
+      "group": 1
+    },
+    {
+      "first": "90",
+      "second": "64",
+      "third": "25",
+      "name": "Bob Dylan",
+      "group": 1
+    },
+    {
+      "first": "90",
+      "second": "87",
+      "third": "25",
+      "name": "Love",
+      "group": 1
+    },
+    {
+      "first": "None",
+      "second": "None",
+      "third": "None",
+      "name": "h hunt",
+      "group": 1
+    },
+    {
+      "first": "33",
+      "second": "78",
+      "third": "58",
+      "name": "Herbert",
+      "group": 1
+    },
+    {
+      "first": "46",
+      "second": "62",
+      "third": "None",
+      "name": "Philip Glass",
+      "group": 1
+    },
+    {
+      "first": "33",
+      "second": "11",
+      "third": "97",
+      "name": "Gold Panda",
+      "group": 1
+    },
+    {
+      "first": "6",
+      "second": "56",
+      "third": "26",
+      "name": "Spectrals",
+      "group": 1
+    },
+    {
+      "first": "None",
+      "second": "None",
+      "third": "None",
+      "name": "F.S. Blumm",
+      "group": 1
+    },
+    {
+      "first": "13",
+      "second": "None",
+      "third": "None",
+      "name": "Lonnie Liston Smith & The Cosmic Echoes",
+      "group": 1
+    },
+    {
+      "first": "84",
+      "second": "90",
+      "third": "94",
+      "name": "The Black Keys",
+      "group": 1
+    },
+    {
+      "first": "19",
+      "second": "37",
+      "third": "92",
+      "name": "(Sandy) Alex G",
+      "group": 1
+    },
+    {
+      "first": "11",
+      "second": "62",
+      "third": "33",
+      "name": "Susumu Yokota",
+      "group": 1
+    },
+    {
+      "first": "10",
+      "second": "96",
+      "third": "60",
+      "name": "Craft Spells",
+      "group": 1
+    },
+    {
+      "first": "33",
+      "second": "86",
+      "third": "31",
+      "name": "Aim",
+      "group": 1
+    },
+    {
+      "first": "37",
+      "second": "98",
+      "third": "66",
+      "name": "The Antlers",
+      "group": 1
+    },
+    {
+      "first": "62",
+      "second": "55",
+      "third": "60",
+      "name": "Daft Punk",
+      "group": 1
+    },
+    {
+      "first": "64",
+      "second": "50",
+      "third": "75",
+      "name": "The Clientele",
+      "group": 1
+    },
+    {
+      "first": "33",
+      "second": "35",
+      "third": "39",
+      "name": "Jan Jelinek",
+      "group": 1
+    },
+    {
+      "first": "60",
+      "second": "50",
+      "third": "92",
+      "name": "Foster the People",
+      "group": 1
+    },
+    {
+      "first": "97",
+      "second": "None",
+      "third": "None",
+      "name": "Blank Banshee",
+      "group": 1
+    },
+    {
+      "first": "11",
+      "second": "62",
+      "third": "81",
+      "name": "Carbon Based Lifeforms",
+      "group": 1
+    },
+    {
+      "first": "50",
+      "second": "32",
+      "third": "31",
+      "name": "MGMT",
+      "group": 1
+    },
+    {
+      "first": "31",
+      "second": "35",
+      "third": "11",
+      "name": "XXYYXX",
+      "group": 1
+    },
+    {
+      "first": "75",
+      "second": "14",
+      "third": "59",
+      "name": "Echo Lake",
+      "group": 1
+    },
+    {
+      "first": "75",
+      "second": "20",
+      "third": "98",
+      "name": "My Bloody Valentine",
+      "group": 1
+    },
+    {
+      "first": "97",
+      "second": "33",
+      "third": "2",
+      "name": "Flying Lotus",
+      "group": 1
+    },
+    {
+      "first": "30",
+      "second": "36",
+      "third": "2",
+      "name": "Madvillain",
+      "group": 1
+    },
+    {
+      "first": "80",
+      "second": "55",
+      "third": "98",
+      "name": "Broadcast",
+      "group": 1
+    },
+    {
+      "first": "44",
+      "second": "4",
+      "third": "None",
+      "name": "Skee Mask",
+      "group": 1
+    },
+    {
+      "first": "3",
+      "second": "37",
+      "third": "85",
+      "name": "Panda Bear",
+      "group": 1
+    },
+    {
+      "first": "66",
+      "second": "7",
+      "third": "91",
+      "name": "Candy Claws",
+      "group": 1
+    },
+    {
+      "first": "68",
+      "second": "72",
+      "third": "83",
+      "name": "Soft Machine",
+      "group": 1
+    },
+    {
+      "first": "37",
+      "second": "50",
+      "third": "91",
+      "name": "The Shins",
+      "group": 1
+    },
+    {
+      "first": "94",
+      "second": "91",
+      "third": "69",
+      "name": "The Smashing Pumpkins",
+      "group": 1
+    },
+    {
+      "first": "60",
+      "second": "31",
+      "third": "69",
+      "name": "Kasabian",
+      "group": 1
+    },
+    {
+      "first": "63",
+      "second": "20",
+      "third": "55",
+      "name": "Slowdive",
+      "group": 1
+    },
+    {
+      "first": "None",
+      "second": "None",
+      "third": "None",
+      "name": "Hnny",
+      "group": 1
+    },
+    {
+      "first": "98",
+      "second": "26",
+      "third": "3",
+      "name": "The Flaming Lips",
+      "group": 1
+    },
+    {
+      "first": "72",
+      "second": "69",
+      "third": "25",
+      "name": "Talk Talk",
+      "group": 1
+    },
+    {
+      "first": "84",
+      "second": "60",
+      "third": "61",
+      "name": "Unknown Mortal Orchestra",
+      "group": 1
+    },
+    {
+      "first": "6",
+      "second": "96",
+      "third": "61",
+      "name": "Redspencer",
+      "group": 1
+    },
+    {
+      "first": "55",
+      "second": "14",
+      "third": "18",
+      "name": "Sweet Trip",
+      "group": 1
+    },
+    {
+      "first": "43",
+      "second": "35",
+      "third": "11",
+      "name": "Burial",
+      "group": 1
+    },
+    {
+      "first": "11",
+      "second": "33",
+      "third": "58",
+      "name": "Aphex Twin",
+      "group": 1
+    },
+    {
+      "first": "84",
+      "second": "None",
+      "third": "None",
+      "name": "DeWolff",
+      "group": 1
+    }
+  ],
+  "links": [
+    {
+      "node1": "Mac DeMarco",
+      "node2": "Grizzly Bear",
+      "weight": 0.2895,
+      "source": 0,
+      "target": 1
+    },
+    {
+      "node1": "Mac DeMarco",
+      "node2": "Deerhunter",
+      "weight": 0.2973,
+      "source": 0,
+      "target": 6
+    },
+    {
+      "node1": "Mac DeMarco",
+      "node2": "Tame Impala",
+      "weight": 0.2687,
+      "source": 0,
+      "target": 10
+    },
+    {
+      "node1": "Mac DeMarco",
+      "node2": "Beach Fossils",
+      "weight": 0.2875,
+      "source": 0,
+      "target": 20
+    },
+    {
+      "node1": "Mac DeMarco",
+      "node2": "Mild High Club",
+      "weight": 0.2537,
+      "source": 0,
+      "target": 22
+    },
+    {
+      "node1": "Mac DeMarco",
+      "node2": "Homeshake",
+      "weight": 0.2561,
+      "source": 0,
+      "target": 47
+    },
+    {
+      "node1": "Mac DeMarco",
+      "node2": "The Antlers",
+      "weight": 0.2625,
+      "source": 0,
+      "target": 69
+    },
+    {
+      "node1": "Mac DeMarco",
+      "node2": "Panda Bear",
+      "weight": 0.2625,
+      "source": 0,
+      "target": 84
+    },
+    {
+      "node1": "Mac DeMarco",
+      "node2": "The Flaming Lips",
+      "weight": 0.2609,
+      "source": 0,
+      "target": 92
+    },
+    {
+      "node1": "Mac DeMarco",
+      "node2": "Unknown Mortal Orchestra",
+      "weight": 0.2763,
+      "source": 0,
+      "target": 94
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "Beach House",
+      "weight": 0.3966,
+      "source": 1,
+      "target": 3
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "Deerhunter",
+      "weight": 0.3651,
+      "source": 1,
+      "target": 6
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "Yo La Tengo",
+      "weight": 0.3623,
+      "source": 1,
+      "target": 7
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "M83",
+      "weight": 0.2537,
+      "source": 1,
+      "target": 9
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "Tame Impala",
+      "weight": 0.2931,
+      "source": 1,
+      "target": 10
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "Radiohead",
+      "weight": 0.2769,
+      "source": 1,
+      "target": 11
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "Cass McCombs",
+      "weight": 0.2714,
+      "source": 1,
+      "target": 13
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "Animal Collective",
+      "weight": 0.5,
+      "source": 1,
+      "target": 21
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "Mild High Club",
+      "weight": 0.2542,
+      "source": 1,
+      "target": 22
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "Caribou",
+      "weight": 0.3077,
+      "source": 1,
+      "target": 23
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "Wild Nothing",
+      "weight": 0.2807,
+      "source": 1,
+      "target": 29
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "Black Moth Super Rainbow",
+      "weight": 0.2985,
+      "source": 1,
+      "target": 33
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "Moby",
+      "weight": 0.2586,
+      "source": 1,
+      "target": 50
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "The Antlers",
+      "weight": 0.4677,
+      "source": 1,
+      "target": 69
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "MGMT",
+      "weight": 0.3571,
+      "source": 1,
+      "target": 76
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "Broadcast",
+      "weight": 0.2824,
+      "source": 1,
+      "target": 82
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "Panda Bear",
+      "weight": 0.4677,
+      "source": 1,
+      "target": 84
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "The Shins",
+      "weight": 0.3818,
+      "source": 1,
+      "target": 87
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "Slowdive",
+      "weight": 0.2712,
+      "source": 1,
+      "target": 90
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "The Flaming Lips",
+      "weight": 0.359,
+      "source": 1,
+      "target": 92
+    },
+    {
+      "node1": "Grizzly Bear",
+      "node2": "Unknown Mortal Orchestra",
+      "weight": 0.2794,
+      "source": 1,
+      "target": 94
+    },
+    {
+      "node1": "Boards of Canada",
+      "node2": "M83",
+      "weight": 0.2632,
+      "source": 2,
+      "target": 9
+    },
+    {
+      "node1": "Boards of Canada",
+      "node2": "The Avalanches",
+      "weight": 0.2581,
+      "source": 2,
+      "target": 16
+    },
+    {
+      "node1": "Boards of Canada",
+      "node2": "Four Tet",
+      "weight": 0.3929,
+      "source": 2,
+      "target": 26
+    },
+    {
+      "node1": "Boards of Canada",
+      "node2": "Massive Attack",
+      "weight": 0.3721,
+      "source": 2,
+      "target": 31
+    },
+    {
+      "node1": "Boards of Canada",
+      "node2": "James Blake",
+      "weight": 0.2542,
+      "source": 2,
+      "target": 49
+    },
+    {
+      "node1": "Boards of Canada",
+      "node2": "Moby",
+      "weight": 0.3261,
+      "source": 2,
+      "target": 50
+    },
+    {
+      "node1": "Boards of Canada",
+      "node2": "Gold Panda",
+      "weight": 0.3214,
+      "source": 2,
+      "target": 60
+    },
+    {
+      "node1": "Boards of Canada",
+      "node2": "Susumu Yokota",
+      "weight": 0.3617,
+      "source": 2,
+      "target": 66
+    },
+    {
+      "node1": "Boards of Canada",
+      "node2": "XXYYXX",
+      "weight": 0.303,
+      "source": 2,
+      "target": 77
+    },
+    {
+      "node1": "Boards of Canada",
+      "node2": "Flying Lotus",
+      "weight": 0.2537,
+      "source": 2,
+      "target": 80
+    },
+    {
+      "node1": "Boards of Canada",
+      "node2": "Broadcast",
+      "weight": 0.2933,
+      "source": 2,
+      "target": 82
+    },
+    {
+      "node1": "Boards of Canada",
+      "node2": "Aphex Twin",
+      "weight": 0.3684,
+      "source": 2,
+      "target": 98
+    },
+    {
+      "node1": "Beach House",
+      "node2": "Deerhunter",
+      "weight": 0.2742,
+      "source": 3,
+      "target": 6
+    },
+    {
+      "node1": "Beach House",
+      "node2": "Yo La Tengo",
+      "weight": 0.3594,
+      "source": 3,
+      "target": 7
+    },
+    {
+      "node1": "Beach House",
+      "node2": "M83",
+      "weight": 0.3051,
+      "source": 3,
+      "target": 9
+    },
+    {
+      "node1": "Beach House",
+      "node2": "Tame Impala",
+      "weight": 0.2593,
+      "source": 3,
+      "target": 10
+    },
+    {
+      "node1": "Beach House",
+      "node2": "Radiohead",
+      "weight": 0.2667,
+      "source": 3,
+      "target": 11
+    },
+    {
+      "node1": "Beach House",
+      "node2": "Animal Collective",
+      "weight": 0.3333,
+      "source": 3,
+      "target": 21
+    },
+    {
+      "node1": "Beach House",
+      "node2": "Caribou",
+      "weight": 0.3684,
+      "source": 3,
+      "target": 23
+    },
+    {
+      "node1": "Beach House",
+      "node2": "No Joy",
+      "weight": 0.2712,
+      "source": 3,
+      "target": 24
+    },
+    {
+      "node1": "Beach House",
+      "node2": "Blouse",
+      "weight": 0.2963,
+      "source": 3,
+      "target": 27
+    },
+    {
+      "node1": "Beach House",
+      "node2": "Wild Nothing",
+      "weight": 0.32,
+      "source": 3,
+      "target": 29
+    },
+    {
+      "node1": "Beach House",
+      "node2": "Massive Attack",
+      "weight": 0.2549,
+      "source": 3,
+      "target": 31
+    },
+    {
+      "node1": "Beach House",
+      "node2": "Black Moth Super Rainbow",
+      "weight": 0.2698,
+      "source": 3,
+      "target": 33
+    },
+    {
+      "node1": "Beach House",
+      "node2": "Young Prisms",
+      "weight": 0.2745,
+      "source": 3,
+      "target": 37
+    },
+    {
+      "node1": "Beach House",
+      "node2": "Melody's Echo Chamber",
+      "weight": 0.3214,
+      "source": 3,
+      "target": 41
+    },
+    {
+      "node1": "Beach House",
+      "node2": "Moby",
+      "weight": 0.2941,
+      "source": 3,
+      "target": 50
+    },
+    {
+      "node1": "Beach House",
+      "node2": "Cocteau Twins",
+      "weight": 0.3443,
+      "source": 3,
+      "target": 51
+    },
+    {
+      "node1": "Beach House",
+      "node2": "Craft Spells",
+      "weight": 0.2857,
+      "source": 3,
+      "target": 67
+    },
+    {
+      "node1": "Beach House",
+      "node2": "The Antlers",
+      "weight": 0.3333,
+      "source": 3,
+      "target": 69
+    },
+    {
+      "node1": "Beach House",
+      "node2": "MGMT",
+      "weight": 0.2778,
+      "source": 3,
+      "target": 76
+    },
+    {
+      "node1": "Beach House",
+      "node2": "My Bloody Valentine",
+      "weight": 0.3077,
+      "source": 3,
+      "target": 79
+    },
+    {
+      "node1": "Beach House",
+      "node2": "Broadcast",
+      "weight": 0.3077,
+      "source": 3,
+      "target": 82
+    },
+    {
+      "node1": "Beach House",
+      "node2": "Panda Bear",
+      "weight": 0.377,
+      "source": 3,
+      "target": 84
+    },
+    {
+      "node1": "Beach House",
+      "node2": "The Shins",
+      "weight": 0.3019,
+      "source": 3,
+      "target": 87
+    },
+    {
+      "node1": "Beach House",
+      "node2": "Slowdive",
+      "weight": 0.36,
+      "source": 3,
+      "target": 90
+    },
+    {
+      "node1": "Beach House",
+      "node2": "The Flaming Lips",
+      "weight": 0.3026,
+      "source": 3,
+      "target": 92
+    },
+    {
+      "node1": "Deerhunter",
+      "node2": "Yo La Tengo",
+      "weight": 0.3333,
+      "source": 6,
+      "target": 7
+    },
+    {
+      "node1": "Deerhunter",
+      "node2": "Tame Impala",
+      "weight": 0.3774,
+      "source": 6,
+      "target": 10
+    },
+    {
+      "node1": "Deerhunter",
+      "node2": "Beach Fossils",
+      "weight": 0.3,
+      "source": 6,
+      "target": 20
+    },
+    {
+      "node1": "Deerhunter",
+      "node2": "Animal Collective",
+      "weight": 0.3934,
+      "source": 6,
+      "target": 21
+    },
+    {
+      "node1": "Deerhunter",
+      "node2": "Mild High Club",
+      "weight": 0.2632,
+      "source": 6,
+      "target": 22
+    },
+    {
+      "node1": "Deerhunter",
+      "node2": "Caribou",
+      "weight": 0.2576,
+      "source": 6,
+      "target": 23
+    },
+    {
+      "node1": "Deerhunter",
+      "node2": "No Joy",
+      "weight": 0.3333,
+      "source": 6,
+      "target": 24
+    },
+    {
+      "node1": "Deerhunter",
+      "node2": "Wild Nothing",
+      "weight": 0.2679,
+      "source": 6,
+      "target": 29
+    },
+    {
+      "node1": "Deerhunter",
+      "node2": "Black Moth Super Rainbow",
+      "weight": 0.2687,
+      "source": 6,
+      "target": 33
+    },
+    {
+      "node1": "Deerhunter",
+      "node2": "Young Prisms",
+      "weight": 0.3208,
+      "source": 6,
+      "target": 37
+    },
+    {
+      "node1": "Deerhunter",
+      "node2": "Melody's Echo Chamber",
+      "weight": 0.2742,
+      "source": 6,
+      "target": 41
+    },
+    {
+      "node1": "Deerhunter",
+      "node2": "The Antlers",
+      "weight": 0.3284,
+      "source": 6,
+      "target": 69
+    },
+    {
+      "node1": "Deerhunter",
+      "node2": "MGMT",
+      "weight": 0.2982,
+      "source": 6,
+      "target": 76
+    },
+    {
+      "node1": "Deerhunter",
+      "node2": "My Bloody Valentine",
+      "weight": 0.3774,
+      "source": 6,
+      "target": 79
+    },
+    {
+      "node1": "Deerhunter",
+      "node2": "Broadcast",
+      "weight": 0.2588,
+      "source": 6,
+      "target": 82
+    },
+    {
+      "node1": "Deerhunter",
+      "node2": "Panda Bear",
+      "weight": 0.3692,
+      "source": 6,
+      "target": 84
+    },
+    {
+      "node1": "Deerhunter",
+      "node2": "Slowdive",
+      "weight": 0.2807,
+      "source": 6,
+      "target": 90
+    },
+    {
+      "node1": "Deerhunter",
+      "node2": "The Flaming Lips",
+      "weight": 0.4054,
+      "source": 6,
+      "target": 92
+    },
+    {
+      "node1": "Deerhunter",
+      "node2": "Unknown Mortal Orchestra",
+      "weight": 0.2879,
+      "source": 6,
+      "target": 94
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "M83",
+      "weight": 0.3235,
+      "source": 7,
+      "target": 9
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "Radiohead",
+      "weight": 0.3088,
+      "source": 7,
+      "target": 11
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "Cass McCombs",
+      "weight": 0.2838,
+      "source": 7,
+      "target": 13
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "Beach Fossils",
+      "weight": 0.2857,
+      "source": 7,
+      "target": 20
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "Animal Collective",
+      "weight": 0.3478,
+      "source": 7,
+      "target": 21
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "Caribou",
+      "weight": 0.2817,
+      "source": 7,
+      "target": 23
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "No Joy",
+      "weight": 0.2941,
+      "source": 7,
+      "target": 24
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "Blouse",
+      "weight": 0.2769,
+      "source": 7,
+      "target": 27
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "Wild Nothing",
+      "weight": 0.2742,
+      "source": 7,
+      "target": 29
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "Black Moth Super Rainbow",
+      "weight": 0.2568,
+      "source": 7,
+      "target": 33
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "David Bowie",
+      "weight": 0.2706,
+      "source": 7,
+      "target": 36
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "The Strokes",
+      "weight": 0.2727,
+      "source": 7,
+      "target": 40
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "Moby",
+      "weight": 0.254,
+      "source": 7,
+      "target": 50
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "Cocteau Twins",
+      "weight": 0.3014,
+      "source": 7,
+      "target": 51
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "Stereolab",
+      "weight": 0.3267,
+      "source": 7,
+      "target": 54
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "The Antlers",
+      "weight": 0.3857,
+      "source": 7,
+      "target": 69
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "MGMT",
+      "weight": 0.2615,
+      "source": 7,
+      "target": 76
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "My Bloody Valentine",
+      "weight": 0.3966,
+      "source": 7,
+      "target": 79
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "Broadcast",
+      "weight": 0.3855,
+      "source": 7,
+      "target": 82
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "Panda Bear",
+      "weight": 0.3662,
+      "source": 7,
+      "target": 84
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "The Shins",
+      "weight": 0.3226,
+      "source": 7,
+      "target": 87
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "The Smashing Pumpkins",
+      "weight": 0.2941,
+      "source": 7,
+      "target": 88
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "Slowdive",
+      "weight": 0.35,
+      "source": 7,
+      "target": 90
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "The Flaming Lips",
+      "weight": 0.4359,
+      "source": 7,
+      "target": 92
+    },
+    {
+      "node1": "Yo La Tengo",
+      "node2": "Talk Talk",
+      "weight": 0.2973,
+      "source": 7,
+      "target": 93
+    },
+    {
+      "node1": "Jeremy Soule",
+      "node2": "Philip Glass",
+      "weight": 0.2535,
+      "source": 8,
+      "target": 59
+    },
+    {
+      "node1": "M83",
+      "node2": "Radiohead",
+      "weight": 0.2951,
+      "source": 9,
+      "target": 11
+    },
+    {
+      "node1": "M83",
+      "node2": "Caribou",
+      "weight": 0.3729,
+      "source": 9,
+      "target": 23
+    },
+    {
+      "node1": "M83",
+      "node2": "Four Tet",
+      "weight": 0.303,
+      "source": 9,
+      "target": 26
+    },
+    {
+      "node1": "M83",
+      "node2": "Blouse",
+      "weight": 0.2586,
+      "source": 9,
+      "target": 27
+    },
+    {
+      "node1": "M83",
+      "node2": "Wild Nothing",
+      "weight": 0.3019,
+      "source": 9,
+      "target": 29
+    },
+    {
+      "node1": "M83",
+      "node2": "Black Moth Super Rainbow",
+      "weight": 0.3387,
+      "source": 9,
+      "target": 33
+    },
+    {
+      "node1": "M83",
+      "node2": "Melody's Echo Chamber",
+      "weight": 0.3276,
+      "source": 9,
+      "target": 41
+    },
+    {
+      "node1": "M83",
+      "node2": "Moby",
+      "weight": 0.3019,
+      "source": 9,
+      "target": 50
+    },
+    {
+      "node1": "M83",
+      "node2": "Cocteau Twins",
+      "weight": 0.371,
+      "source": 9,
+      "target": 51
+    },
+    {
+      "node1": "M83",
+      "node2": "Stereolab",
+      "weight": 0.3626,
+      "source": 9,
+      "target": 54
+    },
+    {
+      "node1": "M83",
+      "node2": "Craft Spells",
+      "weight": 0.2712,
+      "source": 9,
+      "target": 67
+    },
+    {
+      "node1": "M83",
+      "node2": "Daft Punk",
+      "weight": 0.2885,
+      "source": 9,
+      "target": 70
+    },
+    {
+      "node1": "M83",
+      "node2": "MGMT",
+      "weight": 0.3585,
+      "source": 9,
+      "target": 76
+    },
+    {
+      "node1": "M83",
+      "node2": "My Bloody Valentine",
+      "weight": 0.3654,
+      "source": 9,
+      "target": 79
+    },
+    {
+      "node1": "M83",
+      "node2": "Broadcast",
+      "weight": 0.4384,
+      "source": 9,
+      "target": 82
+    },
+    {
+      "node1": "M83",
+      "node2": "Slowdive",
+      "weight": 0.42,
+      "source": 9,
+      "target": 90
+    },
+    {
+      "node1": "M83",
+      "node2": "Talk Talk",
+      "weight": 0.2647,
+      "source": 9,
+      "target": 93
+    },
+    {
+      "node1": "Tame Impala",
+      "node2": "Beach Fossils",
+      "weight": 0.2698,
+      "source": 10,
+      "target": 20
+    },
+    {
+      "node1": "Tame Impala",
+      "node2": "Animal Collective",
+      "weight": 0.2542,
+      "source": 10,
+      "target": 21
+    },
+    {
+      "node1": "Tame Impala",
+      "node2": "Mild High Club",
+      "weight": 0.2708,
+      "source": 10,
+      "target": 22
+    },
+    {
+      "node1": "Tame Impala",
+      "node2": "Caribou",
+      "weight": 0.2632,
+      "source": 10,
+      "target": 23
+    },
+    {
+      "node1": "Tame Impala",
+      "node2": "No Joy",
+      "weight": 0.2778,
+      "source": 10,
+      "target": 24
+    },
+    {
+      "node1": "Tame Impala",
+      "node2": "Young Prisms",
+      "weight": 0.3111,
+      "source": 10,
+      "target": 37
+    },
+    {
+      "node1": "Tame Impala",
+      "node2": "Melody's Echo Chamber",
+      "weight": 0.3333,
+      "source": 10,
+      "target": 41
+    },
+    {
+      "node1": "Tame Impala",
+      "node2": "The Black Keys",
+      "weight": 0.2917,
+      "source": 10,
+      "target": 64
+    },
+    {
+      "node1": "Tame Impala",
+      "node2": "The Antlers",
+      "weight": 0.2581,
+      "source": 10,
+      "target": 69
+    },
+    {
+      "node1": "Tame Impala",
+      "node2": "Foster the People",
+      "weight": 0.2667,
+      "source": 10,
+      "target": 73
+    },
+    {
+      "node1": "Tame Impala",
+      "node2": "MGMT",
+      "weight": 0.3125,
+      "source": 10,
+      "target": 76
+    },
+    {
+      "node1": "Tame Impala",
+      "node2": "Panda Bear",
+      "weight": 0.2581,
+      "source": 10,
+      "target": 84
+    },
+    {
+      "node1": "Tame Impala",
+      "node2": "Kasabian",
+      "weight": 0.3191,
+      "source": 10,
+      "target": 89
+    },
+    {
+      "node1": "Tame Impala",
+      "node2": "Slowdive",
+      "weight": 0.2653,
+      "source": 10,
+      "target": 90
+    },
+    {
+      "node1": "Tame Impala",
+      "node2": "The Flaming Lips",
+      "weight": 0.2917,
+      "source": 10,
+      "target": 92
+    },
+    {
+      "node1": "Tame Impala",
+      "node2": "Unknown Mortal Orchestra",
+      "weight": 0.3214,
+      "source": 10,
+      "target": 94
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Electric Light Orchestra",
+      "weight": 0.2812,
+      "source": 11,
+      "target": 12
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Pink Floyd",
+      "weight": 0.3077,
+      "source": 11,
+      "target": 17
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Animal Collective",
+      "weight": 0.2615,
+      "source": 11,
+      "target": 21
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Gorillaz",
+      "weight": 0.3333,
+      "source": 11,
+      "target": 25
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Four Tet",
+      "weight": 0.2687,
+      "source": 11,
+      "target": 26
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "The Beatles",
+      "weight": 0.2769,
+      "source": 11,
+      "target": 30
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Massive Attack",
+      "weight": 0.2692,
+      "source": 11,
+      "target": 31
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Roxy Music",
+      "weight": 0.3077,
+      "source": 11,
+      "target": 32
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "David Bowie",
+      "weight": 0.3472,
+      "source": 11,
+      "target": 36
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Foals",
+      "weight": 0.2909,
+      "source": 11,
+      "target": 39
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "The Strokes",
+      "weight": 0.2807,
+      "source": 11,
+      "target": 40
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Keane",
+      "weight": 0.3396,
+      "source": 11,
+      "target": 46
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Moby",
+      "weight": 0.283,
+      "source": 11,
+      "target": 50
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Cocteau Twins",
+      "weight": 0.2923,
+      "source": 11,
+      "target": 51
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Stereolab",
+      "weight": 0.2551,
+      "source": 11,
+      "target": 54
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "The Antlers",
+      "weight": 0.303,
+      "source": 11,
+      "target": 69
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Broadcast",
+      "weight": 0.284,
+      "source": 11,
+      "target": 82
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "The Shins",
+      "weight": 0.2679,
+      "source": 11,
+      "target": 87
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "The Smashing Pumpkins",
+      "weight": 0.3051,
+      "source": 11,
+      "target": 88
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Kasabian",
+      "weight": 0.3725,
+      "source": 11,
+      "target": 89
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Slowdive",
+      "weight": 0.3462,
+      "source": 11,
+      "target": 90
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "The Flaming Lips",
+      "weight": 0.3467,
+      "source": 11,
+      "target": 92
+    },
+    {
+      "node1": "Radiohead",
+      "node2": "Talk Talk",
+      "weight": 0.3934,
+      "source": 11,
+      "target": 93
+    },
+    {
+      "node1": "Electric Light Orchestra",
+      "node2": "Pink Floyd",
+      "weight": 0.3585,
+      "source": 12,
+      "target": 17
+    },
+    {
+      "node1": "Electric Light Orchestra",
+      "node2": "The Beatles",
+      "weight": 0.2985,
+      "source": 12,
+      "target": 30
+    },
+    {
+      "node1": "Electric Light Orchestra",
+      "node2": "Roxy Music",
+      "weight": 0.3906,
+      "source": 12,
+      "target": 32
+    },
+    {
+      "node1": "Electric Light Orchestra",
+      "node2": "David Bowie",
+      "weight": 0.3467,
+      "source": 12,
+      "target": 36
+    },
+    {
+      "node1": "Electric Light Orchestra",
+      "node2": "Keane",
+      "weight": 0.2931,
+      "source": 12,
+      "target": 46
+    },
+    {
+      "node1": "Electric Light Orchestra",
+      "node2": "Kasabian",
+      "weight": 0.2982,
+      "source": 12,
+      "target": 89
+    },
+    {
+      "node1": "Electric Light Orchestra",
+      "node2": "Talk Talk",
+      "weight": 0.2899,
+      "source": 12,
+      "target": 93
+    },
+    {
+      "node1": "Cass McCombs",
+      "node2": "The Antlers",
+      "weight": 0.2958,
+      "source": 13,
+      "target": 69
+    },
+    {
+      "node1": "Cass McCombs",
+      "node2": "Foster the People",
+      "weight": 0.2679,
+      "source": 13,
+      "target": 73
+    },
+    {
+      "node1": "Cass McCombs",
+      "node2": "The Shins",
+      "weight": 0.3051,
+      "source": 13,
+      "target": 87
+    },
+    {
+      "node1": "The Avalanches",
+      "node2": "Caribou",
+      "weight": 0.2609,
+      "source": 16,
+      "target": 23
+    },
+    {
+      "node1": "The Avalanches",
+      "node2": "Gorillaz",
+      "weight": 0.3175,
+      "source": 16,
+      "target": 25
+    },
+    {
+      "node1": "The Avalanches",
+      "node2": "Four Tet",
+      "weight": 0.3731,
+      "source": 16,
+      "target": 26
+    },
+    {
+      "node1": "The Avalanches",
+      "node2": "Massive Attack",
+      "weight": 0.3036,
+      "source": 16,
+      "target": 31
+    },
+    {
+      "node1": "The Avalanches",
+      "node2": "St. Germain",
+      "weight": 0.2532,
+      "source": 16,
+      "target": 34
+    },
+    {
+      "node1": "The Avalanches",
+      "node2": "Moby",
+      "weight": 0.3636,
+      "source": 16,
+      "target": 50
+    },
+    {
+      "node1": "The Avalanches",
+      "node2": "Aim",
+      "weight": 0.3043,
+      "source": 16,
+      "target": 68
+    },
+    {
+      "node1": "The Avalanches",
+      "node2": "Daft Punk",
+      "weight": 0.2586,
+      "source": 16,
+      "target": 70
+    },
+    {
+      "node1": "The Avalanches",
+      "node2": "Flying Lotus",
+      "weight": 0.2564,
+      "source": 16,
+      "target": 80
+    },
+    {
+      "node1": "Pink Floyd",
+      "node2": "The Beatles",
+      "weight": 0.3036,
+      "source": 17,
+      "target": 30
+    },
+    {
+      "node1": "Pink Floyd",
+      "node2": "Roxy Music",
+      "weight": 0.3393,
+      "source": 17,
+      "target": 32
+    },
+    {
+      "node1": "Pink Floyd",
+      "node2": "David Bowie",
+      "weight": 0.4032,
+      "source": 17,
+      "target": 36
+    },
+    {
+      "node1": "Pink Floyd",
+      "node2": "The Doors",
+      "weight": 0.3556,
+      "source": 17,
+      "target": 48
+    },
+    {
+      "node1": "Pink Floyd",
+      "node2": "Soft Machine",
+      "weight": 0.3469,
+      "source": 17,
+      "target": 86
+    },
+    {
+      "node1": "Pink Floyd",
+      "node2": "Talk Talk",
+      "weight": 0.2712,
+      "source": 17,
+      "target": 93
+    },
+    {
+      "node1": "Com Truise",
+      "node2": "Gold Panda",
+      "weight": 0.2714,
+      "source": 19,
+      "target": 60
+    },
+    {
+      "node1": "Beach Fossils",
+      "node2": "No Joy",
+      "weight": 0.2794,
+      "source": 20,
+      "target": 24
+    },
+    {
+      "node1": "Beach Fossils",
+      "node2": "Blouse",
+      "weight": 0.3016,
+      "source": 20,
+      "target": 27
+    },
+    {
+      "node1": "Beach Fossils",
+      "node2": "Wild Nothing",
+      "weight": 0.322,
+      "source": 20,
+      "target": 29
+    },
+    {
+      "node1": "Beach Fossils",
+      "node2": "Young Prisms",
+      "weight": 0.2833,
+      "source": 20,
+      "target": 37
+    },
+    {
+      "node1": "Beach Fossils",
+      "node2": "The Strokes",
+      "weight": 0.2969,
+      "source": 20,
+      "target": 40
+    },
+    {
+      "node1": "Beach Fossils",
+      "node2": "The Black Keys",
+      "weight": 0.2698,
+      "source": 20,
+      "target": 64
+    },
+    {
+      "node1": "Beach Fossils",
+      "node2": "The Antlers",
+      "weight": 0.2973,
+      "source": 20,
+      "target": 69
+    },
+    {
+      "node1": "Beach Fossils",
+      "node2": "MGMT",
+      "weight": 0.2656,
+      "source": 20,
+      "target": 76
+    },
+    {
+      "node1": "Animal Collective",
+      "node2": "Caribou",
+      "weight": 0.2923,
+      "source": 21,
+      "target": 23
+    },
+    {
+      "node1": "Animal Collective",
+      "node2": "No Joy",
+      "weight": 0.2656,
+      "source": 21,
+      "target": 24
+    },
+    {
+      "node1": "Animal Collective",
+      "node2": "Black Moth Super Rainbow",
+      "weight": 0.3231,
+      "source": 21,
+      "target": 33
+    },
+    {
+      "node1": "Animal Collective",
+      "node2": "The Antlers",
+      "weight": 0.3636,
+      "source": 21,
+      "target": 69
+    },
+    {
+      "node1": "Animal Collective",
+      "node2": "MGMT",
+      "weight": 0.3393,
+      "source": 21,
+      "target": 76
+    },
+    {
+      "node1": "Animal Collective",
+      "node2": "My Bloody Valentine",
+      "weight": 0.2759,
+      "source": 21,
+      "target": 79
+    },
+    {
+      "node1": "Animal Collective",
+      "node2": "Broadcast",
+      "weight": 0.2558,
+      "source": 21,
+      "target": 82
+    },
+    {
+      "node1": "Animal Collective",
+      "node2": "Panda Bear",
+      "weight": 0.6667,
+      "source": 21,
+      "target": 84
+    },
+    {
+      "node1": "Animal Collective",
+      "node2": "Kasabian",
+      "weight": 0.2542,
+      "source": 21,
+      "target": 89
+    },
+    {
+      "node1": "Animal Collective",
+      "node2": "The Flaming Lips",
+      "weight": 0.3816,
+      "source": 21,
+      "target": 92
+    },
+    {
+      "node1": "Animal Collective",
+      "node2": "Unknown Mortal Orchestra",
+      "weight": 0.2647,
+      "source": 21,
+      "target": 94
+    },
+    {
+      "node1": "Mild High Club",
+      "node2": "Blouse",
+      "weight": 0.26,
+      "source": 22,
+      "target": 27
+    },
+    {
+      "node1": "Mild High Club",
+      "node2": "Wild Nothing",
+      "weight": 0.2553,
+      "source": 22,
+      "target": 29
+    },
+    {
+      "node1": "Mild High Club",
+      "node2": "Young Prisms",
+      "weight": 0.2889,
+      "source": 22,
+      "target": 37
+    },
+    {
+      "node1": "Mild High Club",
+      "node2": "Melody's Echo Chamber",
+      "weight": 0.2642,
+      "source": 22,
+      "target": 41
+    },
+    {
+      "node1": "Mild High Club",
+      "node2": "Unknown Mortal Orchestra",
+      "weight": 0.3036,
+      "source": 22,
+      "target": 94
+    },
+    {
+      "node1": "Caribou",
+      "node2": "No Joy",
+      "weight": 0.254,
+      "source": 23,
+      "target": 24
+    },
+    {
+      "node1": "Caribou",
+      "node2": "Four Tet",
+      "weight": 0.3594,
+      "source": 23,
+      "target": 26
+    },
+    {
+      "node1": "Caribou",
+      "node2": "Black Moth Super Rainbow",
+      "weight": 0.377,
+      "source": 23,
+      "target": 33
+    },
+    {
+      "node1": "Caribou",
+      "node2": "Melody's Echo Chamber",
+      "weight": 0.2787,
+      "source": 23,
+      "target": 41
+    },
+    {
+      "node1": "Caribou",
+      "node2": "Moby",
+      "weight": 0.2963,
+      "source": 23,
+      "target": 50
+    },
+    {
+      "node1": "Caribou",
+      "node2": "Stereolab",
+      "weight": 0.2755,
+      "source": 23,
+      "target": 54
+    },
+    {
+      "node1": "Caribou",
+      "node2": "Gold Panda",
+      "weight": 0.2576,
+      "source": 23,
+      "target": 60
+    },
+    {
+      "node1": "Caribou",
+      "node2": "The Antlers",
+      "weight": 0.2571,
+      "source": 23,
+      "target": 69
+    },
+    {
+      "node1": "Caribou",
+      "node2": "MGMT",
+      "weight": 0.3273,
+      "source": 23,
+      "target": 76
+    },
+    {
+      "node1": "Caribou",
+      "node2": "Broadcast",
+      "weight": 0.359,
+      "source": 23,
+      "target": 82
+    },
+    {
+      "node1": "Caribou",
+      "node2": "Panda Bear",
+      "weight": 0.3333,
+      "source": 23,
+      "target": 84
+    },
+    {
+      "node1": "Caribou",
+      "node2": "Kasabian",
+      "weight": 0.2632,
+      "source": 23,
+      "target": 89
+    },
+    {
+      "node1": "Caribou",
+      "node2": "The Flaming Lips",
+      "weight": 0.3038,
+      "source": 23,
+      "target": 92
+    },
+    {
+      "node1": "No Joy",
+      "node2": "Wild Nothing",
+      "weight": 0.2885,
+      "source": 24,
+      "target": 29
+    },
+    {
+      "node1": "No Joy",
+      "node2": "Young Prisms",
+      "weight": 0.32,
+      "source": 24,
+      "target": 37
+    },
+    {
+      "node1": "No Joy",
+      "node2": "Melody's Echo Chamber",
+      "weight": 0.2712,
+      "source": 24,
+      "target": 41
+    },
+    {
+      "node1": "No Joy",
+      "node2": "My Bloody Valentine",
+      "weight": 0.3529,
+      "source": 24,
+      "target": 79
+    },
+    {
+      "node1": "No Joy",
+      "node2": "Slowdive",
+      "weight": 0.2778,
+      "source": 24,
+      "target": 90
+    },
+    {
+      "node1": "Gorillaz",
+      "node2": "Four Tet",
+      "weight": 0.3175,
+      "source": 25,
+      "target": 26
+    },
+    {
+      "node1": "Gorillaz",
+      "node2": "Massive Attack",
+      "weight": 0.3617,
+      "source": 25,
+      "target": 31
+    },
+    {
+      "node1": "Gorillaz",
+      "node2": "Foals",
+      "weight": 0.3019,
+      "source": 25,
+      "target": 39
+    },
+    {
+      "node1": "Gorillaz",
+      "node2": "Keane",
+      "weight": 0.2778,
+      "source": 25,
+      "target": 46
+    },
+    {
+      "node1": "Gorillaz",
+      "node2": "Moby",
+      "weight": 0.2941,
+      "source": 25,
+      "target": 50
+    },
+    {
+      "node1": "Gorillaz",
+      "node2": "Daft Punk",
+      "weight": 0.2549,
+      "source": 25,
+      "target": 70
+    },
+    {
+      "node1": "Gorillaz",
+      "node2": "MGMT",
+      "weight": 0.2545,
+      "source": 25,
+      "target": 76
+    },
+    {
+      "node1": "Gorillaz",
+      "node2": "Kasabian",
+      "weight": 0.3333,
+      "source": 25,
+      "target": 89
+    },
+    {
+      "node1": "Four Tet",
+      "node2": "Massive Attack",
+      "weight": 0.3774,
+      "source": 26,
+      "target": 31
+    },
+    {
+      "node1": "Four Tet",
+      "node2": "Black Moth Super Rainbow",
+      "weight": 0.2714,
+      "source": 26,
+      "target": 33
+    },
+    {
+      "node1": "Four Tet",
+      "node2": "St. Germain",
+      "weight": 0.2692,
+      "source": 26,
+      "target": 34
+    },
+    {
+      "node1": "Four Tet",
+      "node2": "Foals",
+      "weight": 0.2581,
+      "source": 26,
+      "target": 39
+    },
+    {
+      "node1": "Four Tet",
+      "node2": "James Blake",
+      "weight": 0.2941,
+      "source": 26,
+      "target": 49
+    },
+    {
+      "node1": "Four Tet",
+      "node2": "Moby",
+      "weight": 0.3393,
+      "source": 26,
+      "target": 50
+    },
+    {
+      "node1": "Four Tet",
+      "node2": "Stereolab",
+      "weight": 0.2871,
+      "source": 26,
+      "target": 54
+    },
+    {
+      "node1": "Four Tet",
+      "node2": "Herbert",
+      "weight": 0.4079,
+      "source": 26,
+      "target": 58
+    },
+    {
+      "node1": "Four Tet",
+      "node2": "Gold Panda",
+      "weight": 0.375,
+      "source": 26,
+      "target": 60
+    },
+    {
+      "node1": "Four Tet",
+      "node2": "Aim",
+      "weight": 0.3235,
+      "source": 26,
+      "target": 68
+    },
+    {
+      "node1": "Four Tet",
+      "node2": "XXYYXX",
+      "weight": 0.2821,
+      "source": 26,
+      "target": 77
+    },
+    {
+      "node1": "Four Tet",
+      "node2": "Flying Lotus",
+      "weight": 0.3243,
+      "source": 26,
+      "target": 80
+    },
+    {
+      "node1": "Four Tet",
+      "node2": "Broadcast",
+      "weight": 0.3059,
+      "source": 26,
+      "target": 82
+    },
+    {
+      "node1": "Four Tet",
+      "node2": "Kasabian",
+      "weight": 0.2623,
+      "source": 26,
+      "target": 89
+    },
+    {
+      "node1": "Four Tet",
+      "node2": "Aphex Twin",
+      "weight": 0.3333,
+      "source": 26,
+      "target": 98
+    },
+    {
+      "node1": "Blouse",
+      "node2": "Wild Nothing",
+      "weight": 0.3478,
+      "source": 27,
+      "target": 29
+    },
+    {
+      "node1": "Blouse",
+      "node2": "Young Prisms",
+      "weight": 0.2979,
+      "source": 27,
+      "target": 37
+    },
+    {
+      "node1": "Blouse",
+      "node2": "Melody's Echo Chamber",
+      "weight": 0.2727,
+      "source": 27,
+      "target": 41
+    },
+    {
+      "node1": "Blouse",
+      "node2": "Craft Spells",
+      "weight": 0.3878,
+      "source": 27,
+      "target": 67
+    },
+    {
+      "node1": "Blouse",
+      "node2": "MGMT",
+      "weight": 0.3265,
+      "source": 27,
+      "target": 76
+    },
+    {
+      "node1": "Blouse",
+      "node2": "My Bloody Valentine",
+      "weight": 0.2549,
+      "source": 27,
+      "target": 79
+    },
+    {
+      "node1": "Blouse",
+      "node2": "Unknown Mortal Orchestra",
+      "weight": 0.2881,
+      "source": 27,
+      "target": 94
+    },
+    {
+      "node1": "Wild Nothing",
+      "node2": "Young Prisms",
+      "weight": 0.2667,
+      "source": 29,
+      "target": 37
+    },
+    {
+      "node1": "Wild Nothing",
+      "node2": "Melody's Echo Chamber",
+      "weight": 0.2941,
+      "source": 29,
+      "target": 41
+    },
+    {
+      "node1": "Wild Nothing",
+      "node2": "Cocteau Twins",
+      "weight": 0.2542,
+      "source": 29,
+      "target": 51
+    },
+    {
+      "node1": "Wild Nothing",
+      "node2": "Craft Spells",
+      "weight": 0.3333,
+      "source": 29,
+      "target": 67
+    },
+    {
+      "node1": "Wild Nothing",
+      "node2": "MGMT",
+      "weight": 0.2708,
+      "source": 29,
+      "target": 76
+    },
+    {
+      "node1": "Wild Nothing",
+      "node2": "My Bloody Valentine",
+      "weight": 0.3043,
+      "source": 29,
+      "target": 79
+    },
+    {
+      "node1": "Wild Nothing",
+      "node2": "Broadcast",
+      "weight": 0.2533,
+      "source": 29,
+      "target": 82
+    },
+    {
+      "node1": "Wild Nothing",
+      "node2": "Panda Bear",
+      "weight": 0.3103,
+      "source": 29,
+      "target": 84
+    },
+    {
+      "node1": "Wild Nothing",
+      "node2": "Slowdive",
+      "weight": 0.3043,
+      "source": 29,
+      "target": 90
+    },
+    {
+      "node1": "The Beatles",
+      "node2": "Roxy Music",
+      "weight": 0.2857,
+      "source": 30,
+      "target": 32
+    },
+    {
+      "node1": "The Beatles",
+      "node2": "David Bowie",
+      "weight": 0.36,
+      "source": 30,
+      "target": 36
+    },
+    {
+      "node1": "The Beatles",
+      "node2": "Keane",
+      "weight": 0.2881,
+      "source": 30,
+      "target": 46
+    },
+    {
+      "node1": "The Beatles",
+      "node2": "The Doors",
+      "weight": 0.3333,
+      "source": 30,
+      "target": 48
+    },
+    {
+      "node1": "The Beatles",
+      "node2": "Love",
+      "weight": 0.2714,
+      "source": 30,
+      "target": 56
+    },
+    {
+      "node1": "The Beatles",
+      "node2": "Kasabian",
+      "weight": 0.2712,
+      "source": 30,
+      "target": 89
+    },
+    {
+      "node1": "Massive Attack",
+      "node2": "St. Germain",
+      "weight": 0.2903,
+      "source": 31,
+      "target": 34
+    },
+    {
+      "node1": "Massive Attack",
+      "node2": "James Blake",
+      "weight": 0.2545,
+      "source": 31,
+      "target": 49
+    },
+    {
+      "node1": "Massive Attack",
+      "node2": "Moby",
+      "weight": 0.4,
+      "source": 31,
+      "target": 50
+    },
+    {
+      "node1": "Massive Attack",
+      "node2": "Cocteau Twins",
+      "weight": 0.2632,
+      "source": 31,
+      "target": 51
+    },
+    {
+      "node1": "Massive Attack",
+      "node2": "Herbert",
+      "weight": 0.2941,
+      "source": 31,
+      "target": 58
+    },
+    {
+      "node1": "Massive Attack",
+      "node2": "Gold Panda",
+      "weight": 0.2545,
+      "source": 31,
+      "target": 60
+    },
+    {
+      "node1": "Massive Attack",
+      "node2": "Aim",
+      "weight": 0.2909,
+      "source": 31,
+      "target": 68
+    },
+    {
+      "node1": "Massive Attack",
+      "node2": "Daft Punk",
+      "weight": 0.2558,
+      "source": 31,
+      "target": 70
+    },
+    {
+      "node1": "Massive Attack",
+      "node2": "Slowdive",
+      "weight": 0.2609,
+      "source": 31,
+      "target": 90
+    },
+    {
+      "node1": "Massive Attack",
+      "node2": "Aphex Twin",
+      "weight": 0.3036,
+      "source": 31,
+      "target": 98
+    },
+    {
+      "node1": "Roxy Music",
+      "node2": "David Bowie",
+      "weight": 0.4857,
+      "source": 32,
+      "target": 36
+    },
+    {
+      "node1": "Roxy Music",
+      "node2": "Keane",
+      "weight": 0.3,
+      "source": 32,
+      "target": 46
+    },
+    {
+      "node1": "Roxy Music",
+      "node2": "Kasabian",
+      "weight": 0.3276,
+      "source": 32,
+      "target": 89
+    },
+    {
+      "node1": "Roxy Music",
+      "node2": "Talk Talk",
+      "weight": 0.4375,
+      "source": 32,
+      "target": 93
+    },
+    {
+      "node1": "Black Moth Super Rainbow",
+      "node2": "Melody's Echo Chamber",
+      "weight": 0.2698,
+      "source": 33,
+      "target": 41
+    },
+    {
+      "node1": "Black Moth Super Rainbow",
+      "node2": "Stereolab",
+      "weight": 0.27,
+      "source": 33,
+      "target": 54
+    },
+    {
+      "node1": "Black Moth Super Rainbow",
+      "node2": "The Antlers",
+      "weight": 0.2676,
+      "source": 33,
+      "target": 69
+    },
+    {
+      "node1": "Black Moth Super Rainbow",
+      "node2": "MGMT",
+      "weight": 0.3393,
+      "source": 33,
+      "target": 76
+    },
+    {
+      "node1": "Black Moth Super Rainbow",
+      "node2": "Broadcast",
+      "weight": 0.3846,
+      "source": 33,
+      "target": 82
+    },
+    {
+      "node1": "Black Moth Super Rainbow",
+      "node2": "Panda Bear",
+      "weight": 0.3235,
+      "source": 33,
+      "target": 84
+    },
+    {
+      "node1": "Black Moth Super Rainbow",
+      "node2": "The Flaming Lips",
+      "weight": 0.3125,
+      "source": 33,
+      "target": 92
+    },
+    {
+      "node1": "Black Moth Super Rainbow",
+      "node2": "Unknown Mortal Orchestra",
+      "weight": 0.2647,
+      "source": 33,
+      "target": 94
+    },
+    {
+      "node1": "St. Germain",
+      "node2": "Kraak & Smaak",
+      "weight": 0.2759,
+      "source": 34,
+      "target": 42
+    },
+    {
+      "node1": "St. Germain",
+      "node2": "Moby",
+      "weight": 0.3016,
+      "source": 34,
+      "target": 50
+    },
+    {
+      "node1": "St. Germain",
+      "node2": "Herbert",
+      "weight": 0.3735,
+      "source": 34,
+      "target": 58
+    },
+    {
+      "node1": "St. Germain",
+      "node2": "Aim",
+      "weight": 0.2763,
+      "source": 34,
+      "target": 68
+    },
+    {
+      "node1": "St. Germain",
+      "node2": "Daft Punk",
+      "weight": 0.2698,
+      "source": 34,
+      "target": 70
+    },
+    {
+      "node1": "David Bowie",
+      "node2": "Keane",
+      "weight": 0.2676,
+      "source": 36,
+      "target": 46
+    },
+    {
+      "node1": "David Bowie",
+      "node2": "Stereolab",
+      "weight": 0.3028,
+      "source": 36,
+      "target": 54
+    },
+    {
+      "node1": "David Bowie",
+      "node2": "The Smashing Pumpkins",
+      "weight": 0.2632,
+      "source": 36,
+      "target": 88
+    },
+    {
+      "node1": "David Bowie",
+      "node2": "Kasabian",
+      "weight": 0.3284,
+      "source": 36,
+      "target": 89
+    },
+    {
+      "node1": "David Bowie",
+      "node2": "The Flaming Lips",
+      "weight": 0.3043,
+      "source": 36,
+      "target": 92
+    },
+    {
+      "node1": "David Bowie",
+      "node2": "Talk Talk",
+      "weight": 0.3684,
+      "source": 36,
+      "target": 93
+    },
+    {
+      "node1": "Young Prisms",
+      "node2": "The Black Keys",
+      "weight": 0.2553,
+      "source": 37,
+      "target": 64
+    },
+    {
+      "node1": "Young Prisms",
+      "node2": "Foster the People",
+      "weight": 0.2558,
+      "source": 37,
+      "target": 73
+    },
+    {
+      "node1": "Young Prisms",
+      "node2": "My Bloody Valentine",
+      "weight": 0.2826,
+      "source": 37,
+      "target": 79
+    },
+    {
+      "node1": "Nick Drake",
+      "node2": "Bob Dylan",
+      "weight": 0.2817,
+      "source": 38,
+      "target": 55
+    },
+    {
+      "node1": "Nick Drake",
+      "node2": "The Shins",
+      "weight": 0.2769,
+      "source": 38,
+      "target": 87
+    },
+    {
+      "node1": "Foals",
+      "node2": "Keane",
+      "weight": 0.2549,
+      "source": 39,
+      "target": 46
+    },
+    {
+      "node1": "Foals",
+      "node2": "Foster the People",
+      "weight": 0.2609,
+      "source": 39,
+      "target": 73
+    },
+    {
+      "node1": "Foals",
+      "node2": "MGMT",
+      "weight": 0.3617,
+      "source": 39,
+      "target": 76
+    },
+    {
+      "node1": "Foals",
+      "node2": "Kasabian",
+      "weight": 0.4,
+      "source": 39,
+      "target": 89
+    },
+    {
+      "node1": "Foals",
+      "node2": "Slowdive",
+      "weight": 0.26,
+      "source": 39,
+      "target": 90
+    },
+    {
+      "node1": "The Strokes",
+      "node2": "Keane",
+      "weight": 0.32,
+      "source": 40,
+      "target": 46
+    },
+    {
+      "node1": "The Strokes",
+      "node2": "The Black Keys",
+      "weight": 0.2745,
+      "source": 40,
+      "target": 64
+    },
+    {
+      "node1": "The Strokes",
+      "node2": "MGMT",
+      "weight": 0.2692,
+      "source": 40,
+      "target": 76
+    },
+    {
+      "node1": "The Strokes",
+      "node2": "The Shins",
+      "weight": 0.32,
+      "source": 40,
+      "target": 87
+    },
+    {
+      "node1": "The Strokes",
+      "node2": "The Smashing Pumpkins",
+      "weight": 0.3333,
+      "source": 40,
+      "target": 88
+    },
+    {
+      "node1": "Melody's Echo Chamber",
+      "node2": "Cocteau Twins",
+      "weight": 0.2812,
+      "source": 41,
+      "target": 51
+    },
+    {
+      "node1": "Melody's Echo Chamber",
+      "node2": "Stereolab",
+      "weight": 0.2737,
+      "source": 41,
+      "target": 54
+    },
+    {
+      "node1": "Melody's Echo Chamber",
+      "node2": "Craft Spells",
+      "weight": 0.2632,
+      "source": 41,
+      "target": 67
+    },
+    {
+      "node1": "Melody's Echo Chamber",
+      "node2": "MGMT",
+      "weight": 0.2778,
+      "source": 41,
+      "target": 76
+    },
+    {
+      "node1": "Melody's Echo Chamber",
+      "node2": "Echo Lake",
+      "weight": 0.2639,
+      "source": 41,
+      "target": 78
+    },
+    {
+      "node1": "Melody's Echo Chamber",
+      "node2": "My Bloody Valentine",
+      "weight": 0.283,
+      "source": 41,
+      "target": 79
+    },
+    {
+      "node1": "Melody's Echo Chamber",
+      "node2": "Broadcast",
+      "weight": 0.3077,
+      "source": 41,
+      "target": 82
+    },
+    {
+      "node1": "Melody's Echo Chamber",
+      "node2": "Panda Bear",
+      "weight": 0.2727,
+      "source": 41,
+      "target": 84
+    },
+    {
+      "node1": "Melody's Echo Chamber",
+      "node2": "Slowdive",
+      "weight": 0.3333,
+      "source": 41,
+      "target": 90
+    },
+    {
+      "node1": "Kraak & Smaak",
+      "node2": "Herbert",
+      "weight": 0.2526,
+      "source": 42,
+      "target": 58
+    },
+    {
+      "node1": "Keane",
+      "node2": "Foster the People",
+      "weight": 0.2609,
+      "source": 46,
+      "target": 73
+    },
+    {
+      "node1": "Keane",
+      "node2": "The Shins",
+      "weight": 0.3333,
+      "source": 46,
+      "target": 87
+    },
+    {
+      "node1": "Keane",
+      "node2": "Kasabian",
+      "weight": 0.3696,
+      "source": 46,
+      "target": 89
+    },
+    {
+      "node1": "Keane",
+      "node2": "Slowdive",
+      "weight": 0.26,
+      "source": 46,
+      "target": 90
+    },
+    {
+      "node1": "Keane",
+      "node2": "Talk Talk",
+      "weight": 0.2581,
+      "source": 46,
+      "target": 93
+    },
+    {
+      "node1": "The Doors",
+      "node2": "Bob Dylan",
+      "weight": 0.3091,
+      "source": 48,
+      "target": 55
+    },
+    {
+      "node1": "The Doors",
+      "node2": "Love",
+      "weight": 0.3509,
+      "source": 48,
+      "target": 56
+    },
+    {
+      "node1": "The Doors",
+      "node2": "The Black Keys",
+      "weight": 0.2857,
+      "source": 48,
+      "target": 64
+    },
+    {
+      "node1": "James Blake",
+      "node2": "Gold Panda",
+      "weight": 0.2923,
+      "source": 49,
+      "target": 60
+    },
+    {
+      "node1": "James Blake",
+      "node2": "XXYYXX",
+      "weight": 0.28,
+      "source": 49,
+      "target": 77
+    },
+    {
+      "node1": "James Blake",
+      "node2": "Burial",
+      "weight": 0.2931,
+      "source": 49,
+      "target": 97
+    },
+    {
+      "node1": "Moby",
+      "node2": "Herbert",
+      "weight": 0.2676,
+      "source": 50,
+      "target": 58
+    },
+    {
+      "node1": "Moby",
+      "node2": "Daft Punk",
+      "weight": 0.4,
+      "source": 50,
+      "target": 70
+    },
+    {
+      "node1": "Moby",
+      "node2": "Foster the People",
+      "weight": 0.2791,
+      "source": 50,
+      "target": 73
+    },
+    {
+      "node1": "Moby",
+      "node2": "MGMT",
+      "weight": 0.3261,
+      "source": 50,
+      "target": 76
+    },
+    {
+      "node1": "Moby",
+      "node2": "The Shins",
+      "weight": 0.2708,
+      "source": 50,
+      "target": 87
+    },
+    {
+      "node1": "Moby",
+      "node2": "Aphex Twin",
+      "weight": 0.2931,
+      "source": 50,
+      "target": 98
+    },
+    {
+      "node1": "Cocteau Twins",
+      "node2": "Stereolab",
+      "weight": 0.2772,
+      "source": 51,
+      "target": 54
+    },
+    {
+      "node1": "Cocteau Twins",
+      "node2": "My Bloody Valentine",
+      "weight": 0.4074,
+      "source": 51,
+      "target": 79
+    },
+    {
+      "node1": "Cocteau Twins",
+      "node2": "Broadcast",
+      "weight": 0.3253,
+      "source": 51,
+      "target": 82
+    },
+    {
+      "node1": "Cocteau Twins",
+      "node2": "Slowdive",
+      "weight": 0.4615,
+      "source": 51,
+      "target": 90
+    },
+    {
+      "node1": "Cocteau Twins",
+      "node2": "Talk Talk",
+      "weight": 0.2817,
+      "source": 51,
+      "target": 93
+    },
+    {
+      "node1": "Stereolab",
+      "node2": "My Bloody Valentine",
+      "weight": 0.2637,
+      "source": 54,
+      "target": 79
+    },
+    {
+      "node1": "Stereolab",
+      "node2": "Broadcast",
+      "weight": 0.5051,
+      "source": 54,
+      "target": 82
+    },
+    {
+      "node1": "Stereolab",
+      "node2": "Kasabian",
+      "weight": 0.2637,
+      "source": 54,
+      "target": 89
+    },
+    {
+      "node1": "Stereolab",
+      "node2": "Slowdive",
+      "weight": 0.2921,
+      "source": 54,
+      "target": 90
+    },
+    {
+      "node1": "Stereolab",
+      "node2": "The Flaming Lips",
+      "weight": 0.3394,
+      "source": 54,
+      "target": 92
+    },
+    {
+      "node1": "Stereolab",
+      "node2": "Talk Talk",
+      "weight": 0.3131,
+      "source": 54,
+      "target": 93
+    },
+    {
+      "node1": "Herbert",
+      "node2": "Gold Panda",
+      "weight": 0.2561,
+      "source": 58,
+      "target": 60
+    },
+    {
+      "node1": "Herbert",
+      "node2": "Daft Punk",
+      "weight": 0.2571,
+      "source": 58,
+      "target": 70
+    },
+    {
+      "node1": "Gold Panda",
+      "node2": "XXYYXX",
+      "weight": 0.3151,
+      "source": 60,
+      "target": 77
+    },
+    {
+      "node1": "Gold Panda",
+      "node2": "Flying Lotus",
+      "weight": 0.2703,
+      "source": 60,
+      "target": 80
+    },
+    {
+      "node1": "Craft Spells",
+      "node2": "MGMT",
+      "weight": 0.2885,
+      "source": 67,
+      "target": 76
+    },
+    {
+      "node1": "Aim",
+      "node2": "Flying Lotus",
+      "weight": 0.2973,
+      "source": 68,
+      "target": 80
+    },
+    {
+      "node1": "The Antlers",
+      "node2": "MGMT",
+      "weight": 0.2742,
+      "source": 69,
+      "target": 76
+    },
+    {
+      "node1": "The Antlers",
+      "node2": "My Bloody Valentine",
+      "weight": 0.2581,
+      "source": 69,
+      "target": 79
+    },
+    {
+      "node1": "The Antlers",
+      "node2": "Panda Bear",
+      "weight": 0.3824,
+      "source": 69,
+      "target": 84
+    },
+    {
+      "node1": "The Antlers",
+      "node2": "The Shins",
+      "weight": 0.3167,
+      "source": 69,
+      "target": 87
+    },
+    {
+      "node1": "The Antlers",
+      "node2": "Slowdive",
+      "weight": 0.2787,
+      "source": 69,
+      "target": 90
+    },
+    {
+      "node1": "The Antlers",
+      "node2": "The Flaming Lips",
+      "weight": 0.2976,
+      "source": 69,
+      "target": 92
+    },
+    {
+      "node1": "Daft Punk",
+      "node2": "MGMT",
+      "weight": 0.2826,
+      "source": 70,
+      "target": 76
+    },
+    {
+      "node1": "Foster the People",
+      "node2": "MGMT",
+      "weight": 0.4146,
+      "source": 73,
+      "target": 76
+    },
+    {
+      "node1": "Foster the People",
+      "node2": "The Shins",
+      "weight": 0.2889,
+      "source": 73,
+      "target": 87
+    },
+    {
+      "node1": "Foster the People",
+      "node2": "Kasabian",
+      "weight": 0.3256,
+      "source": 73,
+      "target": 89
+    },
+    {
+      "node1": "Foster the People",
+      "node2": "Unknown Mortal Orchestra",
+      "weight": 0.2545,
+      "source": 73,
+      "target": 94
+    },
+    {
+      "node1": "MGMT",
+      "node2": "Broadcast",
+      "weight": 0.2763,
+      "source": 76,
+      "target": 82
+    },
+    {
+      "node1": "MGMT",
+      "node2": "Panda Bear",
+      "weight": 0.2951,
+      "source": 76,
+      "target": 84
+    },
+    {
+      "node1": "MGMT",
+      "node2": "The Shins",
+      "weight": 0.2549,
+      "source": 76,
+      "target": 87
+    },
+    {
+      "node1": "MGMT",
+      "node2": "The Smashing Pumpkins",
+      "weight": 0.2727,
+      "source": 76,
+      "target": 88
+    },
+    {
+      "node1": "MGMT",
+      "node2": "Kasabian",
+      "weight": 0.4318,
+      "source": 76,
+      "target": 89
+    },
+    {
+      "node1": "MGMT",
+      "node2": "The Flaming Lips",
+      "weight": 0.2877,
+      "source": 76,
+      "target": 92
+    },
+    {
+      "node1": "MGMT",
+      "node2": "Unknown Mortal Orchestra",
+      "weight": 0.3158,
+      "source": 76,
+      "target": 94
+    },
+    {
+      "node1": "XXYYXX",
+      "node2": "Flying Lotus",
+      "weight": 0.3418,
+      "source": 77,
+      "target": 80
+    },
+    {
+      "node1": "Echo Lake",
+      "node2": "Broadcast",
+      "weight": 0.266,
+      "source": 78,
+      "target": 82
+    },
+    {
+      "node1": "Echo Lake",
+      "node2": "Slowdive",
+      "weight": 0.2687,
+      "source": 78,
+      "target": 90
+    },
+    {
+      "node1": "My Bloody Valentine",
+      "node2": "Broadcast",
+      "weight": 0.3151,
+      "source": 79,
+      "target": 82
+    },
+    {
+      "node1": "My Bloody Valentine",
+      "node2": "Panda Bear",
+      "weight": 0.2787,
+      "source": 79,
+      "target": 84
+    },
+    {
+      "node1": "My Bloody Valentine",
+      "node2": "Slowdive",
+      "weight": 0.55,
+      "source": 79,
+      "target": 90
+    },
+    {
+      "node1": "My Bloody Valentine",
+      "node2": "The Flaming Lips",
+      "weight": 0.2917,
+      "source": 79,
+      "target": 92
+    },
+    {
+      "node1": "My Bloody Valentine",
+      "node2": "Talk Talk",
+      "weight": 0.2623,
+      "source": 79,
+      "target": 93
+    },
+    {
+      "node1": "Flying Lotus",
+      "node2": "Madvillain",
+      "weight": 0.2754,
+      "source": 80,
+      "target": 81
+    },
+    {
+      "node1": "Broadcast",
+      "node2": "Panda Bear",
+      "weight": 0.2727,
+      "source": 82,
+      "target": 84
+    },
+    {
+      "node1": "Broadcast",
+      "node2": "Kasabian",
+      "weight": 0.2632,
+      "source": 82,
+      "target": 89
+    },
+    {
+      "node1": "Broadcast",
+      "node2": "Slowdive",
+      "weight": 0.3714,
+      "source": 82,
+      "target": 90
+    },
+    {
+      "node1": "Broadcast",
+      "node2": "The Flaming Lips",
+      "weight": 0.3229,
+      "source": 82,
+      "target": 92
+    },
+    {
+      "node1": "Broadcast",
+      "node2": "Talk Talk",
+      "weight": 0.2759,
+      "source": 82,
+      "target": 93
+    },
+    {
+      "node1": "Panda Bear",
+      "node2": "The Flaming Lips",
+      "weight": 0.3457,
+      "source": 84,
+      "target": 92
+    },
+    {
+      "node1": "The Shins",
+      "node2": "The Flaming Lips",
+      "weight": 0.3239,
+      "source": 87,
+      "target": 92
+    },
+    {
+      "node1": "The Smashing Pumpkins",
+      "node2": "Kasabian",
+      "weight": 0.2545,
+      "source": 88,
+      "target": 89
+    },
+    {
+      "node1": "The Smashing Pumpkins",
+      "node2": "The Flaming Lips",
+      "weight": 0.3158,
+      "source": 88,
+      "target": 92
+    },
+    {
+      "node1": "Kasabian",
+      "node2": "Slowdive",
+      "weight": 0.2917,
+      "source": 89,
+      "target": 90
+    },
+    {
+      "node1": "Kasabian",
+      "node2": "The Flaming Lips",
+      "weight": 0.2568,
+      "source": 89,
+      "target": 92
+    },
+    {
+      "node1": "Kasabian",
+      "node2": "Talk Talk",
+      "weight": 0.3051,
+      "source": 89,
+      "target": 93
+    },
+    {
+      "node1": "Kasabian",
+      "node2": "Unknown Mortal Orchestra",
+      "weight": 0.2542,
+      "source": 89,
+      "target": 94
+    },
+    {
+      "node1": "Slowdive",
+      "node2": "Talk Talk",
+      "weight": 0.3276,
+      "source": 90,
+      "target": 93
+    },
+    {
+      "node1": "The Flaming Lips",
+      "node2": "Talk Talk",
+      "weight": 0.2857,
+      "source": 92,
+      "target": 93
+    }
+  ]
+} 
